@@ -66,6 +66,11 @@ nav {
     cursor: pointer;
 }
 
+.btn:hover{
+    background-color: #42c7d3;
+    color: goldenrod;
+}
+
 .content{
     position: absolute;
     left: 50%;
@@ -109,4 +114,9 @@ nav {
     border: none;
     border-radius: 6px;
     cursor: pointer;
+}
+
+.btn2:hover{
+    background-color: #42c7d3;
+    color: goldenrod;
 }
