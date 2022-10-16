@@ -53,7 +53,7 @@ nav {
     transition: width 0.2s;
 }
 
-.nav-links li a:hover::after{
+.links a:hover::after{
     width: 100%;
 }
 
