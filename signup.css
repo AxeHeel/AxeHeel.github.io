@@ -106,18 +106,18 @@ input[type="submit"]:hover{
     color: goldenrod;
 }
 
-.signup_link{
+.su_link{
     margin: 30px 0;
     text-align: center;
     font-size: 15px;
     color: goldenrod;
 }
 
-.signup_link a{
+.su_link a{
     color: #42c7d3;
     text-decoration: none;
 }
-.signup_link a:hover{
+.su_link a:hover{
     color: #408c99;
     text-decoration: underline;
 }
