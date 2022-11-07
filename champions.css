@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(150deg, rgb(0, 174, 255), rgb(204, 0, 255))
+}
+
+h1 {
+    font-family: 'Nova Flat', cursive;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: justify;
+}
+
+#title {
+    font-family: 'Cinzel Decorative', cursive;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 100px;
+    font-style: italic;
+}
+
+img {
+    height: auto;
+    width: 150px;
+    cursor: pointer;
+}
+
+.container {
+    margin: 50px;
+    padding: 50px;
+    background: linear-gradient(150deg, #4ceaff, #0e6979);
+}
