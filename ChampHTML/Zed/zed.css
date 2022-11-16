@@ -1,5 +1,5 @@
 body {
-    background-image: url(Yasuo.jpg);
+    background-image: url(Zed.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -23,7 +23,7 @@ h1 {
 img {
     height: 100px;
     width: 100px;
-    border: 2px solid #42c7d3;
+    border: 2px solid #8b00db;
     border-radius: 20px;
     float: left;
     margin: 50px;
@@ -31,6 +31,6 @@ img {
 
 img:hover {
     opacity: 0.3;
-    border: 2px solid#fff;
+    border: 2px solid #cf36fd;
     border-radius: 10px;
 }
