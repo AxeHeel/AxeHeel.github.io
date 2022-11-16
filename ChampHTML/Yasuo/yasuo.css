@@ -1,0 +1,37 @@
+body {
+    background-image: url(Yasuo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content {
+    color: #fff;
+    font-family: 'Nova Flat', cursive;
+    padding: 50px;
+    display: block;
+    
+}
+h1 {
+    color: #fff;
+    font-family: 'Nova Flat', cursive;
+    font-size: 60px;
+    margin: 20px;
+    text-align: center;
+    font-size: 100px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    border: 2px solid #42c7d3;
+    border-radius: 20px;
+    float: left;
+    margin: 50px;
+}
+
+img:hover {
+    opacity: 0.3;
+    border: 2px solid#fff;
+    border-radius: 10px;
+
+}
