@@ -1,5 +1,5 @@
 body {
-    background-image: url(Akali.jpg);
+    background-image: url(Cassiopeia.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -8,7 +8,7 @@ body {
     color: #fff;
     font-family: 'Nova Flat', cursive;
     margin-top: 150px;
-    padding: 50px;
+    padding: 100px;
     display: block;
 }
 h1 {
@@ -30,7 +30,7 @@ img {
 }
 
 img:hover {
-    opacity: 0.3;
-    border: 2px solid#808080;
+    opacity: 0.5;
+    border: 2px solid#808;
     border-radius: 10px;
 }

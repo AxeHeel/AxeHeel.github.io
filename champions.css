@@ -1,5 +1,6 @@
 body {
-    background: linear-gradient(150deg, rgb(0, 174, 255), rgb(204, 0, 255))
+    background: fixed url(championsbg.jpg);
+    color: #fff;
 }
 
 h1 {
@@ -30,5 +31,6 @@ p {
 .container {
     margin: 50px;
     padding: 50px;
-    background: linear-gradient(150deg, #4ceaff, #0e6979);
+    border: 5px solid #000;
+    border-radius: 50px;
 }
