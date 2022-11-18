@@ -1,0 +1,36 @@
+body {
+    background-image: url(Akali.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content {
+    color: #fff;
+    font-family: 'Nova Flat', cursive;
+    padding: 50px;
+    display: block;
+    
+}
+h1 {
+    color: #fff;
+    font-family: 'Nova Flat', cursive;
+    font-size: 60px;
+    margin: 20px;
+    text-align: center;
+    font-size: 100px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    border: 2px solid #0F0;
+    border-radius: 20px;
+    float: left;
+    margin: 50px;
+}
+
+img:hover {
+    opacity: 0.3;
+    border: 2px solid#808080;
+    border-radius: 10px;
+}
