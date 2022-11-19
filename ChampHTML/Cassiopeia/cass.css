@@ -23,7 +23,7 @@ h1 {
 img {
     height: 100px;
     width: 100px;
-    border: 2px solid #0F0;
+    border: 2px solid #808;
     border-radius: 20px;
     float: left;
     margin: 50px;
@@ -33,4 +33,24 @@ img:hover {
     opacity: 0.5;
     border: 2px solid#808;
     border-radius: 10px;
+}
+
+#grpu {
+    border: 2px solid #808;
+}
+
+#grpu:hover {
+    border: 2px solid #0f0;
+}
+
+#pg:hover {
+    border: 2px solid #0f0;
+}
+
+#gp:hover {
+    border: 2px solid #0f0;
+}
+
+#green {
+    border: 2px solid #0f0;
 }
