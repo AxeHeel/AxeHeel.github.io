@@ -54,6 +54,17 @@ a {
 
 }
 
+.footer {
+    font-family: 'Nova Flat', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
 @media only screen and (max-width: 600px) {
     #title {
         font-size: 50px;
